@@ -1,0 +1,112 @@
+{
+  "unison": {
+    "ratio": 1.0,
+    "ratio_fraction": "1/1",
+    "frequency": 440.0,
+    "beat_frequency": 0.0,
+    "envelope_variation": 1.4142135623730951,
+    "harmonic_overlap": 8,
+    "simplicity_score": 1.0,
+    "visualization": "/Users/agent-one/Projects/music-theory/visualizations/unison.png"
+  },
+  "octave": {
+    "ratio": 2.0,
+    "ratio_fraction": "2/1",
+    "frequency": 880.0,
+    "beat_frequency": 440.0,
+    "envelope_variation": 1.0,
+    "harmonic_overlap": 4,
+    "simplicity_score": 1.0,
+    "visualization": "/Users/agent-one/Projects/music-theory/visualizations/octave.png"
+  },
+  "perfect_fifth": {
+    "ratio": 1.5,
+    "ratio_fraction": "3/2",
+    "frequency": 660.0,
+    "beat_frequency": 220.0,
+    "envelope_variation": 0.9999999999999998,
+    "harmonic_overlap": 2,
+    "simplicity_score": 0.5,
+    "visualization": "/Users/agent-one/Projects/music-theory/visualizations/perfect_fifth.png"
+  },
+  "perfect_fourth": {
+    "ratio": 1.3333333333333333,
+    "ratio_fraction": "4/3",
+    "frequency": 586.6666666666666,
+    "beat_frequency": 146.66666666666663,
+    "envelope_variation": 1.0084905864353182,
+    "harmonic_overlap": 2,
+    "simplicity_score": 0.3333333333333333,
+    "visualization": "/Users/agent-one/Projects/music-theory/visualizations/perfect_fourth.png"
+  },
+  "major_third": {
+    "ratio": 1.25,
+    "ratio_fraction": "5/4",
+    "frequency": 550.0,
+    "beat_frequency": 110.0,
+    "envelope_variation": 0.9999330770963494,
+    "harmonic_overlap": 1,
+    "simplicity_score": 0.25,
+    "visualization": "/Users/agent-one/Projects/music-theory/visualizations/major_third.png"
+  },
+  "minor_third": {
+    "ratio": 1.2,
+    "ratio_fraction": "6/5",
+    "frequency": 528.0,
+    "beat_frequency": 88.0,
+    "envelope_variation": 1.0102313974580066,
+    "harmonic_overlap": 1,
+    "simplicity_score": 0.2,
+    "visualization": "/Users/agent-one/Projects/music-theory/visualizations/minor_third.png"
+  },
+  "major_sixth": {
+    "ratio": 1.6666666666666667,
+    "ratio_fraction": "5/3",
+    "frequency": 733.3333333333334,
+    "beat_frequency": 293.33333333333337,
+    "envelope_variation": 0.9958897209094753,
+    "harmonic_overlap": 1,
+    "simplicity_score": 0.3333333333333333,
+    "visualization": "/Users/agent-one/Projects/music-theory/visualizations/major_sixth.png"
+  },
+  "minor_sixth": {
+    "ratio": 1.6,
+    "ratio_fraction": "8/5",
+    "frequency": 704.0,
+    "beat_frequency": 264.0,
+    "envelope_variation": 1.0039669339456316,
+    "harmonic_overlap": 1,
+    "simplicity_score": 0.2,
+    "visualization": "/Users/agent-one/Projects/music-theory/visualizations/minor_sixth.png"
+  },
+  "major_second": {
+    "ratio": 1.125,
+    "ratio_fraction": "9/8",
+    "frequency": 495.0,
+    "beat_frequency": 55.0,
+    "envelope_variation": 0.9722417796696576,
+    "harmonic_overlap": 0,
+    "simplicity_score": 0.125,
+    "visualization": "/Users/agent-one/Projects/music-theory/visualizations/major_second.png"
+  },
+  "minor_second": {
+    "ratio": 1.0666666666666667,
+    "ratio_fraction": "16/15",
+    "frequency": 469.3333333333333,
+    "beat_frequency": 29.333333333333314,
+    "envelope_variation": 1.0111057760480753,
+    "harmonic_overlap": 0,
+    "simplicity_score": 0.06666666666666667,
+    "visualization": "/Users/agent-one/Projects/music-theory/visualizations/minor_second.png"
+  },
+  "tritone": {
+    "ratio": 1.40625,
+    "ratio_fraction": "45/32",
+    "frequency": 618.75,
+    "beat_frequency": 178.75,
+    "envelope_variation": 0.9976009601504913,
+    "harmonic_overlap": 0,
+    "simplicity_score": 0.03125,
+    "visualization": "/Users/agent-one/Projects/music-theory/visualizations/tritone.png"
+  }
+}

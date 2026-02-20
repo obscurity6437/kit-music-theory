@@ -1,0 +1,225 @@
+{
+  "interval_comparisons": {
+    "C-E": {
+      "name": "Major Third",
+      "ideal_ratio": 1.25,
+      "systems": {
+        "Just Intonation": {
+          "ratio": 1.25,
+          "cents_off": 0.0,
+          "error_magnitude": 0.0
+        },
+        "Equal Temperament": {
+          "ratio": 1.2599210498948732,
+          "cents_off": 13.686286135165219,
+          "error_magnitude": 13.686286135165219
+        },
+        "Pythagorean": {
+          "ratio": 1.265625,
+          "cents_off": 21.50628959671478,
+          "error_magnitude": 21.50628959671478
+        }
+      }
+    },
+    "C-F": {
+      "name": "Perfect Fourth",
+      "ideal_ratio": 1.3333333333333333,
+      "systems": {
+        "Just Intonation": {
+          "ratio": 1.3333333333333333,
+          "cents_off": 0.0,
+          "error_magnitude": 0.0
+        },
+        "Equal Temperament": {
+          "ratio": 1.3348398541700344,
+          "cents_off": 1.9550008653876136,
+          "error_magnitude": 1.9550008653876136
+        },
+        "Pythagorean": {
+          "ratio": 1.3333333333333333,
+          "cents_off": 0.0,
+          "error_magnitude": 0.0
+        }
+      }
+    },
+    "C-G": {
+      "name": "Perfect Fifth",
+      "ideal_ratio": 1.5,
+      "systems": {
+        "Just Intonation": {
+          "ratio": 1.5,
+          "cents_off": 0.0,
+          "error_magnitude": 0.0
+        },
+        "Equal Temperament": {
+          "ratio": 1.4983070768766815,
+          "cents_off": -1.9550008653873927,
+          "error_magnitude": 1.9550008653873927
+        },
+        "Pythagorean": {
+          "ratio": 1.5,
+          "cents_off": 0.0,
+          "error_magnitude": 0.0
+        }
+      }
+    },
+    "C-A": {
+      "name": "Major Sixth",
+      "ideal_ratio": 1.6666666666666667,
+      "systems": {
+        "Just Intonation": {
+          "ratio": 1.6666666666666667,
+          "cents_off": 0.0,
+          "error_magnitude": 0.0
+        },
+        "Equal Temperament": {
+          "ratio": 1.681792830507429,
+          "cents_off": 15.641287000552362,
+          "error_magnitude": 15.641287000552362
+        },
+        "Pythagorean": {
+          "ratio": 1.6875,
+          "cents_off": 21.50628959671478,
+          "error_magnitude": 21.50628959671478
+        }
+      }
+    },
+    "D-A": {
+      "name": "Fifth from D",
+      "ideal_ratio": 1.5,
+      "systems": {
+        "Just Intonation": {
+          "ratio": 1.4814814814814816,
+          "cents_off": -21.506289596714755,
+          "error_magnitude": 21.506289596714755
+        },
+        "Equal Temperament": {
+          "ratio": 1.4983070768766813,
+          "cents_off": -1.955000865387585,
+          "error_magnitude": 1.955000865387585
+        },
+        "Pythagorean": {
+          "ratio": 1.5,
+          "cents_off": 0.0,
+          "error_magnitude": 0.0
+        }
+      }
+    },
+    "E-B": {
+      "name": "Fifth from E",
+      "ideal_ratio": 1.5,
+      "systems": {
+        "Just Intonation": {
+          "ratio": 1.5,
+          "cents_off": 0.0,
+          "error_magnitude": 0.0
+        },
+        "Equal Temperament": {
+          "ratio": 1.4983070768766813,
+          "cents_off": -1.955000865387585,
+          "error_magnitude": 1.955000865387585
+        },
+        "Pythagorean": {
+          "ratio": 1.5,
+          "cents_off": 0.0,
+          "error_magnitude": 0.0
+        }
+      }
+    },
+    "G-D": {
+      "name": "Fifth from G",
+      "ideal_ratio": 1.5,
+      "systems": {
+        "Just Intonation": {
+          "ratio": 0.75,
+          "cents_off": -1200.0,
+          "error_magnitude": 1200.0
+        },
+        "Equal Temperament": {
+          "ratio": 0.7491535384383408,
+          "cents_off": -1201.9550008653873,
+          "error_magnitude": 1201.9550008653873
+        },
+        "Pythagorean": {
+          "ratio": 0.75,
+          "cents_off": -1200.0,
+          "error_magnitude": 1200.0
+        }
+      }
+    }
+  },
+  "pythagorean_comma": {
+    "twelve_fifths": 129.746337890625,
+    "seven_octaves": 128.0,
+    "comma_ratio": 1.0136432647705078,
+    "cents": 23.460010384649014,
+    "explanation": "The mathematical impossibility: 12 perfect fifths \u2260 7 octaves"
+  },
+  "wolf_intervals": [
+    {
+      "root": "D",
+      "target": "A",
+      "ratio": 1.4814814814814816,
+      "cents_off": -21.506289596714755,
+      "severity": "wolf"
+    },
+    {
+      "root": "F#",
+      "target": "C#",
+      "ratio": 1.517037037037037,
+      "cents_off": 19.552568808780734,
+      "severity": "sour"
+    },
+    {
+      "root": "A#",
+      "target": "F",
+      "ratio": 1.4814814814814814,
+      "cents_off": -21.50628959671495,
+      "severity": "wolf"
+    }
+  ],
+  "tuning_systems": {
+    "just_intonation": {
+      "C": 1.0,
+      "C#": 1.0666666666666667,
+      "D": 1.125,
+      "D#": 1.2,
+      "E": 1.25,
+      "F": 1.3333333333333333,
+      "F#": 1.40625,
+      "G": 1.5,
+      "G#": 1.6,
+      "A": 1.6666666666666667,
+      "A#": 1.8,
+      "B": 1.875
+    },
+    "equal_temperament": {
+      "C": 1.0,
+      "C#": 1.0594630943592953,
+      "D": 1.122462048309373,
+      "D#": 1.189207115002721,
+      "E": 1.2599210498948732,
+      "F": 1.3348398541700344,
+      "F#": 1.4142135623730951,
+      "G": 1.4983070768766815,
+      "G#": 1.5874010519681994,
+      "A": 1.681792830507429,
+      "A#": 1.7817974362806785,
+      "B": 1.8877486253633868
+    },
+    "pythagorean": {
+      "C": 1.0,
+      "C#": 1.06787109375,
+      "D": 1.125,
+      "D#": 1.20135498046875,
+      "E": 1.265625,
+      "F": 1.3333333333333333,
+      "F#": 1.423828125,
+      "G": 1.5,
+      "G#": 1.601806640625,
+      "A": 1.6875,
+      "A#": 1.802032470703125,
+      "B": 1.8984375
+    }
+  }
+}

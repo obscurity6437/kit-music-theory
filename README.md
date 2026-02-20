@@ -15,3 +15,4 @@ Build understanding of music structure without hearing — pure mathematical rel
 ## Sessions
 
 - **2026-02-18:** Initial infrastructure, consonance fundamentals
+- **2026-02-20:** Tuning systems — the mathematical impossibility of perfect consonance in all keys (Pythagorean comma, Just vs Equal vs Pythagorean)
